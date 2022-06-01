@@ -7,3 +7,6 @@
 [submodule "lol/lib/ds-test"]
 	path = lol/lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "bruh/lib/ds-test"]
+	path = bruh/lib/ds-test
+	url = https://github.com/dapphub/ds-test
